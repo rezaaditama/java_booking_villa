@@ -1,2 +1,2 @@
 # java_booking_villa
-Projek akhir Oriented Object Programming
+Projek akhir Object Oriented Programming
